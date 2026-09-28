@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SohdRunner</string>
+    <string name="game_title">SohdRunner</string>
+    <string name="game_subtitle">3D Endless Runner • Powered by Lua</string>
+    <string name="developer_credit">Developed by Ahmed</string>
+    <string name="play_game">PLAY</string>
+    <string name="resume_game">RESUME</string>
+    <string name="restart_game">RESTART</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="pause_title">PAUSED</string>
+    <string name="game_over_title">GAME OVER</string>
+    <string name="score_label">SCORE</string>
+    <string name="high_score_label">HIGH SCORE</string>
+    <string name="coins_label">COINS</string>
+    <string name="speed_label">SPEED</string>
+    <string name="credits_button">CREDITS &amp; INFO</string>
+    <string name="controls_hint">Swipe Left / Right to switch lanes • Swipe Up to Jump • Swipe Down to Fast-Fall</string>
+    <string name="audio_on">Sound: ON</string>
+    <string name="audio_off">Sound: OFF</string>
+    <string name="music_on">Music: ON</string>
+    <string name="music_off">Music: OFF</string>
+</resources>
