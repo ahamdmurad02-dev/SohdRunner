@@ -1,0 +1,6 @@
+{
+  "name": "SohdRunner",
+  "description": "A lightweight 3D endless runner game written in Lua where a low-poly businessman sprints through city streets, dodges obstacles, and collects coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
