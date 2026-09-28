@@ -6,6 +6,7 @@
 **Platform:** Android (standalone offline APK)  
 **Primary Game Language:** Lua (Lua 5.2 via LuaJ with a native 3D Android bridge)  
 **Distribution Targets:** Uptodown & itch.io  
+**License:** [MIT](./LICENSE)
 
 Public source repository: https://github.com/ahamdmurad02-dev/SohdRunner
 
@@ -57,9 +58,7 @@ Open the project root in Android Studio and run the `app` configuration, or:
 ./gradlew :app:assembleDebug
 ```
 
-Note: `gradle-wrapper.jar` is not included here. Generate the wrapper locally with a installed Gradle, or open the project in Android Studio so it can create the wrapper.
-
-See [`UPTODOWN_RELEASE_GUIDE.md`](./UPTODOWN_RELEASE_GUIDE.md) for store listing text and package metadata.
+Note: `gradle-wrapper.jar` is not included here. Generate the wrapper locally with an installed Gradle, or open the project in Android Studio so it can create the wrapper.
 
 ---
 
@@ -102,4 +101,6 @@ See [`UPTODOWN_RELEASE_GUIDE.md`](./UPTODOWN_RELEASE_GUIDE.md) for store listing
 
 ## License
 
-Copyright © 2026 Ahmed. All rights reserved.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for the full text.
+
+Copyright © 2026 Ahmed.
